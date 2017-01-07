@@ -4,6 +4,7 @@ This is a very basic Node.js web application where people can upload images (onl
 
 Just ..
 ```
+npm install
 node index
 ````
-.. and boom its running.
+.. and boom its running(localhost:3001).
